@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\File Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC756BD7-54AE-423A-AFF8-EB8E9B6D1D85}|File Management System.csproj|d:\\c#\\file management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC756BD7-54AE-423A-AFF8-EB8E9B6D1D85}|File Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC756BD7-54AE-423A-AFF8-EB8E9B6D1D85}|File Management System.csproj|D:\\C#\\File Management System\\anaylsetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC756BD7-54AE-423A-AFF8-EB8E9B6D1D85}|File Management System.csproj|solutionrelative:anaylsetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC756BD7-54AE-423A-AFF8-EB8E9B6D1D85}|File Management System.csproj|D:\\C#\\File Management System\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC756BD7-54AE-423A-AFF8-EB8E9B6D1D85}|File Management System.csproj|solutionrelative:expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC756BD7-54AE-423A-AFF8-EB8E9B6D1D85}|File Management System.csproj|D:\\C#\\File Management System\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC756BD7-54AE-423A-AFF8-EB8E9B6D1D85}|File Management System.csproj|solutionrelative:operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:777783211:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnaylseToken.cs",
+              "DocumentMoniker": "D:\\C#\\File Management System\\AnaylseToken.cs",
+              "RelativeDocumentMoniker": "AnaylseToken.cs",
+              "ToolTip": "D:\\C#\\File Management System\\AnaylseToken.cs",
+              "RelativeToolTip": "AnaylseToken.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAADEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:53:40.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Expression.cs",
+              "DocumentMoniker": "D:\\C#\\File Management System\\Expression.cs",
+              "RelativeDocumentMoniker": "Expression.cs",
+              "ToolTip": "D:\\C#\\File Management System\\Expression.cs",
+              "RelativeToolTip": "Expression.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:50:47.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "D:\\C#\\File Management System\\Operation.cs",
+              "RelativeDocumentMoniker": "Operation.cs",
+              "ToolTip": "D:\\C#\\File Management System\\Operation.cs",
+              "RelativeToolTip": "Operation.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:43:09.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\File Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#\\File Management System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:39:28.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

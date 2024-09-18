@@ -1,0 +1,7 @@
+D:\C#\File Management System\bin\Debug\File Management System.exe.config
+D:\C#\File Management System\bin\Debug\File Management System.exe
+D:\C#\File Management System\bin\Debug\File Management System.pdb
+D:\C#\File Management System\obj\Debug\File Management System.csproj.AssemblyReference.cache
+D:\C#\File Management System\obj\Debug\File Management System.csproj.CoreCompileInputs.cache
+D:\C#\File Management System\obj\Debug\File Management System.exe
+D:\C#\File Management System\obj\Debug\File Management System.pdb
